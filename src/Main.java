@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 /** Created by errornosignal on 3/3/2017.
- * ReidNolan_HW2_[PhoneLookup]_[PROG_2413]
+ * ReidNolan_HW2_[PhoneLookup]_[PROG_2413]_
  * Main Class
  * Program for reading data stored in a .csv file
  * @author Reid Nolan
